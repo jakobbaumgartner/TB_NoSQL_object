@@ -1,0 +1,33 @@
+-> CALENDAR OBJECT <-
+
+CONSTRUCTOR
+-> timezone
+-> check if it is a gap year
+-> create an integer based on minutes
+-> crete object with events, every event it's own input
+
+
+
+
+
+-> USERS OBJECT <-
+
+CONSTRUCTOR
+
+-> settings
+{sleeptime (alldays, specialweekdays),
+prefered project time,
+prefered sessions time,
+..
+
+
+
+Torej kombinacija sql, z povezavo v nosql za dodatne podatke. 
+
+sql: datum (intiger), ime (string), tip (intigeer), lokacija (intiger / string), status(intiger) , ikona (string), nujnost (intiger 1-5), fiksnost (intiger 1-3/5), prednost (intiger 1-10), dodatno -nosql link (string)
+
+
+
+ToDo:
+
+-> Validaorji (SQL injections)!!!
